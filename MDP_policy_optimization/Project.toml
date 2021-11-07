@@ -1,0 +1,4 @@
+name = "MDP_policy_optimization"
+uuid = "2f2a221c-9c0f-4624-ad97-82ff2f90e320"
+authors = ["ibevers <isaacbevers@gmail.com>"]
+version = "0.1.0"
