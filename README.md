@@ -1,2 +1,2 @@
 # MDP-policy-optimization
-Code to find the optimal policy for a small, medium, and large datasets for Markov decision processes
+This is a project to find optimal policies for a small, medium, and large dataset of samples from a Markov decision process. This project was completed for CS 238 (Decision-making Under Uncertainty).
